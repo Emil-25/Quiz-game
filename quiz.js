@@ -123,7 +123,7 @@ const questionGroup = [
 ];
 
 let sound = new Audio(
-  "C:/Users/user/Downloads/328117__greenvwbeetle__pop-8.mp3"
+  "./sound.mp3"
 );
 
 // For game stats
