@@ -123,7 +123,7 @@ const questionGroup = [
 ];
 
 let sound = new Audio(
-  "./sound.mp3?raw=true"
+  "https://emil-25.github.io/Quiz-game/sound.mp3"
 );
 
 // For game stats
