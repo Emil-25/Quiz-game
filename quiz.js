@@ -123,7 +123,7 @@ const questionGroup = [
 ];
 
 let sound = new Audio(
-  "./sound.mp3"
+  "./sound.mp3?raw=true"
 );
 
 // For game stats
